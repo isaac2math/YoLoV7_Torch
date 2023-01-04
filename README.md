@@ -1,4 +1,4 @@
-# -YoLoV7_Torch
+# YoLoV7_Torch
 
 Ning Xu, Timothy Guo, and Oliver Hahn
 
