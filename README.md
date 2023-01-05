@@ -1,11 +1,13 @@
 # YoLoV7_Torch
 
-Ning Xu, Timothy Guo, and Oliver Hahn
+Ning Xu, Timothy Guo, Oliver Hahn, and Adam Roff
 
-## the paper can be found at : TBA
-## the video can be found at : https://www.youtube.com/c/isaac2math
+## the research paper can be found at : TBA
+## the intro video can be found at : TBA
 
-* **Re: Chris Huge's folking request : Github DOES NOT allow folking all 5 packages simultaneously (open MM, EricSheng, WongKinYiu, AlexeyAB, and his). Since he insists of folking, to be fair with all sources, we have rewritten the package to make sure that there is 0% of code and data cited from his pacakge.**
+## We decide to only show the base, raw results, and  before The full packages will be revealed right after the acceptence.
+
+* **Re: Chris Hughes' folking request : Github DOES NOT allow folking all 5 packages simultaneously (open MM, EricSheng, WongKinYiu, AlexeyAB, and his). To be fair with all sources, we have rewritten the package to make sure that there is 0% of code (data adaptors, front/demo ipynb, a training script) and data cited from his pacakge.**
 
 * This package is based on YoLov7 by https://github.com/WongKinYiu/yolov7 and directly modified from several packages including YoLov5 by Open MM lab, YoLov4 by AlexeyAB, and YoLov7 by https://github.com/WongKinYiu/yolov7, and the CudaCpp training module from Eric Sheng.
 * This package is for the purpose of deep learning education, research demostration, and proof of idea/value only;
