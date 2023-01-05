@@ -5,7 +5,7 @@ Ning Xu, Timothy Guo, and Oliver Hahn
 ## the paper can be found at : TBA
 ## the video can be found at : https://www.youtube.com/c/isaac2math
 
-* **Re: Chris Huge's folking request : since we CANNOT folk all 5 packages simultaneously and he insists of folking, to be fair with all sources, we have rewritten the package to make sure that there is 0% of code and data cited from his pacakge.**
+* **Re: Chris Huge's folking request : since we CANNOT folk all 5 packages simultaneously (open MM, EricSheng, WongKinYiu, AlexeyAB, and his)  and he insists of folking, to be fair with all sources, we have rewritten the package to make sure that there is 0% of code and data cited from his pacakge.**
 
 * This package is based on YoLov7 by https://github.com/WongKinYiu/yolov7 and directly modified from several packages including YoLov5 by Open MM lab, YoLov4 by AlexeyAB, and YoLov7 by https://github.com/WongKinYiu/yolov7, and the CudaCpp training module from Eric Sheng.
 * This package is for the purpose of deep learning education, research demostration, and proof of idea/value only;
